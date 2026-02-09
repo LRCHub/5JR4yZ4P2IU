@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "春の夜へ",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-09T11:44:19.354351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春の夜へ",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/01_春の夜へ_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春の夜へ",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/02_春の夜へ_カネコアヤノ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春の夜へ",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/03_春の夜へ_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春の夜へ",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_春の夜へ_カネコアヤノ.txt"
+    }
+  ]
+}
